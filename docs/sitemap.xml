@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ronik56.github.io/fux-blog/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ronik56.github.io/fux-blog/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://ronik56.github.io/fux-blog/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
