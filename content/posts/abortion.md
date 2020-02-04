@@ -1,8 +1,11 @@
 ---
-title: "Abortion"
-date: 2020-02-03T19:21:00+02:00
+title: Abortion
+date: 2020-02-03T17:21:00.000Z
 draft: false
-show_date: true
+tags:
+  - Abortion
+comments: true
+share: true
 ---
 
 The first time Ashley McGuire had a baby, she and her husband had to wait 20 weeks to learn its sex. By her third, they found out at 10 weeks with a blood test. Technology has defined her pregnancies, she told me, from the apps that track weekly development to the ultrasounds that show the growing child. “My generation has grown up under an entirely different world of science and technology than the Roe generation,” she said. “We’re in a culture that is science-obsessed.”
