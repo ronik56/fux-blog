@@ -4,7 +4,7 @@ date: 2020-02-03T17:21:00.000Z
 draft: false
 tags:
   - Abortion
-comments: true
+comments: false
 share: true
 ---
 
