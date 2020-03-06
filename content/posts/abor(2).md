@@ -2,10 +2,6 @@
 title: "A Philosophical Case For Abortion"
 date: 2020-03-06T14:10:24+02:00
 draft: true
-tags:
-  - ''
-comments: false
-share: true
 ---
 
 For a long time the abortion argument has been causing dissension in the American public. And just like the American public, the abortion arguments has morphed into an almost purely partisan issue. Pontifical pronouncements, riddled with fallacies and pathos have become to go to arguments, with each side throwing ??? accusations - left wingers have become "Baby killers" and right wingers "Sexist facists" (altough it would appear that nowadays any opinion which is not left wing is facist).

@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Fux"
+title = "Raspy"
 theme = "ananke"
 publishDir = "docs"
 
