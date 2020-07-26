@@ -1,12 +1,11 @@
 ---
+title: Control = Courage
 date: 2020-02-03T11:00:59-04:00
-title: "Control = Courage"
-#featured_image: "BudAnderson-WWII-TripleAce-OLDCROW2.jpg"
+draft: true
+comments: true
+share: true
 ---
-
 ![alt text](/BudAnderson-WWII-TripleAce-OLDCROW2.jpg "Logo Title Text 1")
-
-
 
 During both World Wars, Lord Moran, a physician who served as a medical officer during the first and Winston Churchill’s personal doctor during the second, studied the nature of courage. One of the interesting observations he made was that aboard military aircraft, the navigator experienced greater nerves than the pilot.
 
@@ -24,3 +23,4 @@ In every situation, there is always something you can do to exercise greater age
 
 In any fear-ridden or anxious situation, ask yourself: “What things do I have control over? What options for action remain open to me?” For courage is born in the captainship of soul. 
 
+![](uploads/american_world_war_ii_senior_military_officials-_1945.jpeg)
