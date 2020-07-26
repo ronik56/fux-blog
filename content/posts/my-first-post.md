@@ -1,7 +1,7 @@
 ---
 title: Control = Courage
 date: 2020-02-03T11:00:59-04:00
-draft: true
+draft: false
 comments: true
 share: true
 ---
