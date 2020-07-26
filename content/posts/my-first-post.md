@@ -2,8 +2,8 @@
 title: Control = Courage
 date: 2020-02-03T11:00:59-04:00
 draft: false
-comments: true
-share: true
+comments: false
+share: false
 ---
 ![alt text](/BudAnderson-WWII-TripleAce-OLDCROW2.jpg "Logo Title Text 1")
 
