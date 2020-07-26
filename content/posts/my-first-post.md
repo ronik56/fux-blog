@@ -23,4 +23,4 @@ In every situation, there is always something you can do to exercise greater age
 
 In any fear-ridden or anxious situation, ask yourself: “What things do I have control over? What options for action remain open to me?” For courage is born in the captainship of soul. 
 
-![](uploads/american_world_war_ii_senior_military_officials-_1945.jpeg)
+![](uploads/photo_2019-09-19_14-00-11.jpg)
