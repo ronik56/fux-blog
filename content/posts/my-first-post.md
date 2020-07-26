@@ -21,6 +21,4 @@ The parent who advocates for their sick child at the hospital; the individual wh
 
 In every situation, there is always something you can do to exercise greater agency, and thus subdue your fears. Even if that is preparing to accept those things which truly cannot be changed, by intentionally developing stoic equanimity.   
 
-In any fear-ridden or anxious situation, ask yourself: “What things do I have control over? What options for action remain open to me?” For courage is born in the captainship of soul. 
-
-![](uploads/photo_2019-09-19_14-00-11.jpg)
+In any fear-ridden or anxious situation, ask yourself: “What things do I have control over? What options for action remain open to me?” For courage is born in the captainship of soul.
