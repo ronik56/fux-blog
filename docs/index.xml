@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fux</title>
-    <link>/</link>
-    <description>Recent content on Fux</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 03 Feb 2020 11:00:59 -0400</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Control = Courage</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Mon, 03 Feb 2020 11:00:59 -0400</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>During both World Wars, Lord Moran, a physician who served as a medical officer during the first and Winston Churchill’s personal doctor during the second, studied the nature of courage. One of the interesting observations he made was that aboard military aircraft, the navigator experienced greater nerves than the pilot.
-The reason for this, Moran surmised, was that the pilot had more to do: “In the presence of danger man often finds salvation in action .</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>on Raspy</title><link>/</link><description>Recent content in on Raspy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>I&amp;rsquo;m Raspy, a 23 year old Math student. I&amp;rsquo;ll post here anything I want- musings, hobbies and interesting topics. Subjects include but not limited to math, health and biology, biohacking, philosophy, writing, economics and maybe movies.</description></item><item><title>Contact</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>Feel free to contact me using the form bellow, or you can reach me using Telegram
+Your Name
+Email Address
+An email address is required.
+Message</description></item></channel></rss>

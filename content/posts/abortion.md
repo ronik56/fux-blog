@@ -6,8 +6,9 @@ tags:
   - ''
 comments: false
 share: true
+featured_image: "1.jpg"
 ---
-
+![w](/uploads/favicon.png)
 For a long time, the abortion argument has been causing dissension in the American public. And just like the American public, the abortion arguments has morphed into an almost purely partisan issue. Pontifical pronouncements, riddled with fallacies and pathos have become to go-to arguments, with each side throwing ??? accusations - left-wingers have become "Baby killers" and right-wingers "Sexist fascists" (although it would appear that nowadays any opinion which is not left-wing is fascist).
 
 And therein lies the problem- if one side are fascists and the other are baby killers, it is impossible to settle this debate. There is no middle ground, you can't only "somewhat kill a baby", you either kill a baby or not. You either support an ideology of racial superiority and genocide or not. As long as the abortion debate is "baby killers vs. fascists", it cannot be solved. Fortunately, it doesn't have to be this way.
